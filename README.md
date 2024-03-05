@@ -1,6 +1,4 @@
-# vue homework - week6
-https://annchoucode.github.io/vue_week6/
-
+# Vue2023_week6
 > 這是六角學院的 Vue 樣板，是基於 Vite 所建立的專案。
 
 Node.js 版本建議為：18.17.1 以上
