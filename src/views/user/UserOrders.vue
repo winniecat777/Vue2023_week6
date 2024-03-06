@@ -1,7 +1,7 @@
 <template>
   <!-- cartsList 購物車列表 -->
   <div class="container py-5">
-    <h2 class="mb-5 text-center">訂單</h2>
+    <h2 class="mb-5 text-center">訂單查詢</h2>
 
   </div>
 </template>
@@ -10,7 +10,6 @@
 import cartStore from '@/stores/cartStore.js'
 import { mapActions, mapState } from 'pinia'
 
-// const { VITE_API, VITE_PATH } = import.meta.env
 
 export default {
   data () {

@@ -1,9 +1,7 @@
 <template>
   <div class="container py-5">
-    <h1 class="mb-3">Hello! Welcome to Dessert Time.</h1>
+    <h2 class="mb-3">歡迎光臨～</h2>
     <swiperComponent adCategoryTitle="sweet"></swiperComponent>
-    <swiperComponent adCategoryTitle="taste"></swiperComponent>
-    <swiperComponent adCategoryTitle="spices"></swiperComponent>
   </div>
 </template>
 

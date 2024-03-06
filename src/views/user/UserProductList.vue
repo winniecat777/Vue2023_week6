@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h2 class="py-5 h2 text-center">看產品</h2>
+        <h2 class="py-5 h2 text-center">商品列表</h2>
         <!-- 分類篩選 -->
         <filterCategory @get-Product-List="getProductList"></filterCategory>
         <!-- 產品列表 -->
