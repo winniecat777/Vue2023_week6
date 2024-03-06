@@ -2,14 +2,12 @@
   <!-- cartsList 購物車列表 -->
   <div class="container py-5">
     <h2 class="mb-5 text-center">訂單查詢</h2>
-
   </div>
 </template>
 
 <script>
 import cartStore from '@/stores/cartStore.js'
 import { mapActions, mapState } from 'pinia'
-
 
 export default {
   data () {
