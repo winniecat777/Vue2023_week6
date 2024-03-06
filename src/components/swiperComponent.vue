@@ -48,14 +48,10 @@ export default {
     return {
       allProducts: [],
       adTitle: {
-        sweet: '猜你喜歡吃甜甜',
-        taste: '邀請你來嚐口感',
-        spices: '美味氣氛隨你加'
+        sweet: '新出甜點'
       },
       regexCategory: {
-        sweet: /(蛋糕|糖果)/,
-        taste: /(麵包|餅乾)/,
-        spices: /(餐具|飲料|果醬)/
+        sweet: /(蛋糕|鬆餅)/
       },
       adCurrentCategory: [],
       modules: [Autoplay, Pagination, Navigation]
